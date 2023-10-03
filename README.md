@@ -5,3 +5,6 @@
 
 
 - dari branch hallo
+
+
+- dari lokal
