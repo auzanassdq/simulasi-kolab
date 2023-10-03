@@ -1,1 +1,3 @@
 bismillah
+
+alhamdulillah
