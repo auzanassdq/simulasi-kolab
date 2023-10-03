@@ -8,3 +8,4 @@
 
 
 - dari lokal
+- commit dari cloud
