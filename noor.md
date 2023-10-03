@@ -1,1 +1,1 @@
-Hadir bang
+Hadir bang!
